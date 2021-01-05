@@ -2,7 +2,7 @@
   "name": "digitalpianism/reindex",
   "description": "A small module to be able to reindex Magento 2 from the backend",
   "type": "magento2-module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
